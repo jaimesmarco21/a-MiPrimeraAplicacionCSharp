@@ -1,0 +1,14 @@
+D:\Documents\Taller C#\MiPrimeraAplicacionCSharp\program\bin\Debug\net8.0\Program.exe
+D:\Documents\Taller C#\MiPrimeraAplicacionCSharp\program\bin\Debug\net8.0\Program.deps.json
+D:\Documents\Taller C#\MiPrimeraAplicacionCSharp\program\bin\Debug\net8.0\Program.runtimeconfig.json
+D:\Documents\Taller C#\MiPrimeraAplicacionCSharp\program\bin\Debug\net8.0\Program.dll
+D:\Documents\Taller C#\MiPrimeraAplicacionCSharp\program\bin\Debug\net8.0\Program.pdb
+D:\Documents\Taller C#\MiPrimeraAplicacionCSharp\program\obj\Debug\net8.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Taller C#\MiPrimeraAplicacionCSharp\program\obj\Debug\net8.0\Program.AssemblyInfoInputs.cache
+D:\Documents\Taller C#\MiPrimeraAplicacionCSharp\program\obj\Debug\net8.0\Program.AssemblyInfo.cs
+D:\Documents\Taller C#\MiPrimeraAplicacionCSharp\program\obj\Debug\net8.0\Program.csproj.CoreCompileInputs.cache
+D:\Documents\Taller C#\MiPrimeraAplicacionCSharp\program\obj\Debug\net8.0\Program.dll
+D:\Documents\Taller C#\MiPrimeraAplicacionCSharp\program\obj\Debug\net8.0\refint\Program.dll
+D:\Documents\Taller C#\MiPrimeraAplicacionCSharp\program\obj\Debug\net8.0\Program.pdb
+D:\Documents\Taller C#\MiPrimeraAplicacionCSharp\program\obj\Debug\net8.0\Program.genruntimeconfig.cache
+D:\Documents\Taller C#\MiPrimeraAplicacionCSharp\program\obj\Debug\net8.0\ref\Program.dll
